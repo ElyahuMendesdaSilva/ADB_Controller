@@ -55,7 +55,7 @@ src/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seuusuario/gerenciador-adb-avancado.git
+git clone https://github.com/ElyahuMendesdaSilva/ADB_Controller.git
 cd gerenciador-adb-avancado/src
 ```
 
@@ -73,7 +73,7 @@ python main.py
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Tecnologia | Função |
 |-------------|--------|
@@ -85,7 +85,7 @@ python main.py
 
 ---
 
-## 🧱 Arquitetura
+## Arquitetura
 
 O projeto segue uma divisão clara entre **frontend (UI)** e **backend (operações ADB)**:
 
@@ -102,14 +102,14 @@ O projeto segue uma divisão clara entre **frontend (UI)** e **backend (operaç�
 
 ---
 
-## 🖼️ Interface
+## Interface
 
 A interface segue um tema escuro moderno e responsivo, inspirado em ferramentas profissionais de desenvolvimento Android.  
 Os elementos visuais usam o sistema de cores centralizado em `theme_colors`.
 
 ---
 
-## 🧪 Recursos Planejados
+## Recursos Planejados
 
 - Logs avançados com filtros.
 - Suporte completo ao `fastboot`.
@@ -118,9 +118,9 @@ Os elementos visuais usam o sistema de cores centralizado em `theme_colors`.
 
 ---
 
-## 🧑‍💻 Autor
+## Autor
 
 **Elyahu Mendes**  
-📧 *adicione seu e-mail ou GitHub aqui*  
+📧 *elyahumendesdasilva@gmail.com*  
 💬 “Construído para quem quer ir além do básico com o ADB.”
 
