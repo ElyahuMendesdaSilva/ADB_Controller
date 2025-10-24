@@ -121,6 +121,4 @@ Os elementos visuais usam o sistema de cores centralizado em `theme_colors`.
 ## Autor
 
 **Elyahu Mendes**  
-📧 *elyahumendesdasilva@gmail.com*  
-💬 “Construído para quem quer ir além do básico com o ADB.”
 
