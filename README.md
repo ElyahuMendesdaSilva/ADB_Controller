@@ -5,7 +5,7 @@ O projeto automatiza tarefas comuns como instalação/desinstalação de apps, c
 
 ---
 
-## 🚀 Principais Funcionalidades
+## Principais Funcionalidades
 
 - **Gerenciamento de Dispositivos**
   - Detecta e conecta dispositivos via USB ou Wi-Fi.
@@ -29,13 +29,6 @@ O projeto automatiza tarefas comuns como instalação/desinstalação de apps, c
   - Inicia o **scrcpy** diretamente, com opções otimizadas de resolução e taxa de bits.
   - Bloqueia a interface enquanto o espelhamento está ativo.
 
-- **Monitoramento do Sistema**
-  - Exibe gráficos em tempo real de:
-    - Uso de CPU
-    - Memória RAM
-    - Armazenamento
-    - Bateria
-
 - **Configurações de Tela**
   - Ajusta resolução, DPI e taxa de atualização via ADB.
   - Restaura configurações originais com um clique.
@@ -46,7 +39,7 @@ O projeto automatiza tarefas comuns como instalação/desinstalação de apps, c
 
 ---
 
-## 🧩 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src/
@@ -58,7 +51,7 @@ src/
 
 ---
 
-## ⚙️ Instalação
+## Instalação
 
 ### 1. Clone o repositório
 ```bash
