@@ -56,7 +56,7 @@ src/
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/ElyahuMendesdaSilva/ADB_Controller.git
-cd gerenciador-adb-avancado/src
+cd ADB_Controller/src
 ```
 
 ### 2. Instale as dependências
