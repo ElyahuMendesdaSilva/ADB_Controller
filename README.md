@@ -1,4 +1,4 @@
-# 📱 Gerenciador ADB Avançado
+# Gerenciador ADB Avançado
 
 Um aplicativo multiplataforma (Windows, Linux e macOS) com interface gráfica feita em **[Flet](https://flet.dev/)** para gerenciar dispositivos Android via **ADB** (Android Debug Bridge).  
 O projeto automatiza tarefas comuns como instalação/desinstalação de apps, controle de tela, monitoramento de desempenho, configurações de display e conexão ADB via Wi-Fi.
